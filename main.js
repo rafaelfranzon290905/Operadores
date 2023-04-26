@@ -110,7 +110,7 @@ let idadeAnos = Number(prompt("Digite sua idade"))
 
 console.log(idadeAnos * 12)
 console.log(idadeAnos * 12 * 365)
-console.log(idadeAnos *12 * 365 * 24)
+console.log(idadeAnos * 365 * 24)
 
 // 4. Faça um programa que pergunte ao usuário dois números. Em seguida, faça as operações e imprima no console as seguintes mensagens seguidas pelo `true` ou `false`:
 
